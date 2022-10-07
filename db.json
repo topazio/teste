@@ -1,0 +1,36 @@
+{
+    "pets": [
+      {
+        "id": 1,
+        "nome": "Bob"
+       
+       
+      },
+      {
+        "id": 2,
+        "nome": "Marley"
+       
+       
+      },
+      {
+        "id": 3,
+        "nome": "Jimmy"
+        
+      },
+      {
+        "id": 4,
+        "nome": "Cliff"
+        
+      },
+      {
+        "id": 5,
+        "nome": "Gregory"
+       
+      },
+      {
+        "id": 6,
+        "nome": "Issacs"
+       
+      }
+    ]
+  }
